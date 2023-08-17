@@ -1,0 +1,4 @@
+#Build settings
+mardown: kramdown
+theme: minima
+remote_theme: benbalter/retlab
